@@ -1,0 +1,24 @@
+# CampusKul Product Analytics Dashboard----------------------and the link of dashboard is here ---
+https://app.powerbi.com/links/wnBKki5zHT?ctid=e219f8f2-44b7-46c3-95e1-06b3146aeb5e&pbi_source=linkShare
+
+## Overview
+This project analyzes user engagement for campuskul
+for CampusKul using PostgreSQL and Power BI.
+
+## Metrics Included
+-total post
+-  total comments 
+- Total Job applications
+- Total engagement actions
+- Engagement by role and college
+
+## Tools Used
+- PostgreSQL
+- Power BI
+- GitHub
+
+## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+## How to Use
+Download the .pbix file and open in Power BI Desktop.
